@@ -9,6 +9,14 @@ An educational embedded-systems prototype intended to monitor helmet movement, p
 
 > **Safety notice:** This is a student prototype, not a certified PPE device or medical device. Inactivity is not proof of a fall or medical emergency. Do not rely on this project as the sole safety system in a workplace. Validate hardware, firmware, radio compliance, sensor performance, and alert-handling independently before any field use.
 
+# Security policy
+
+This repository is an educational prototype and is not designed for life-critical use.
+
+Do not publish real worker health readings, location traces, radio identifiers tied to people, credentials, or private keys. Raw LoRa packets in this prototype are not authenticated or encrypted. Do not deploy the system where spoofed or missed alerts could create an unsafe situation.
+
+For a suspected vulnerability, contact the repository maintainer privately using a contact method added by the project owner. Do not invent a contact address in this file.
+
 ## Project overview
 
 ### Problem statement
