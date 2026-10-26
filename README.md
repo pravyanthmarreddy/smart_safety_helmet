@@ -1,9 +1,9 @@
 # Smart Safety Helmet for Industrial and Construction Workers
 
-![Platform](https://img.shields.io/badge/platform-Arduino%20Nano%20RP2040%20Connect-blue)
-![Domain](https://img.shields.io/badge/domain-Embedded%20%7C%20IoT%20%7C%20Safety-green)
-![Status](https://img.shields.io/badge/status-prototype%20%2F%20hardware%20verification-orange)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Platform](https://img.shields.io/badge/platformArduino%20Nano%20RP2040%20Connect-blue)
+![Domain](https://img.shields.io/badge/Embedded%20%7C%20IoT%20%7C%20Safety-green)
+![Status](https://img.shields.io/badge/statusprototype%20%2F%20hardware%20verification-orange)
+
 
 An educational embedded-systems prototype intended to monitor helmet movement, prolonged inactivity, pulse/SpO₂ readings when valid, and GPS location, then send status and emergency packets to a control-room receiver over raw LoRa.
 
