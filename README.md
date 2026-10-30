@@ -267,13 +267,30 @@ smart-safety-helmet/
     └── detection_logic_test_plan.md
 ```
 
-## Team and acknowledgments
 
-- Project team: **[Add actual names and roles]**
-- Institution: **[Add institution / department]**
-- Faculty guide: **[Add name, if applicable]**
-- Acknowledgments: **[Add only confirmed acknowledgments]**
-- 
+# 👥 Project Team
+
+## 🎓 Faculty Guide
+
+<div align="center">
+
+### ⭐ Dr. K. Balakrishna Reddy
+
+**Assistant Professor, Robotics & Automation**  
+**Vignan's Foundation for Science, Technology and Research**
+
+</div>
+
+---
+
+## 🚀 Team Members
+
+- **Pravyanth Marreddy**
+- **Moyeen**
+- **K. Sathwick**
+- **and 1 other**
+
+--- 
 - # Contributing
 
 1. Open an issue describing the bug or proposed improvement.
@@ -284,6 +301,4 @@ smart-safety-helmet/
 6. Never commit credentials, private worker data, or real location logs.
 7. Submit a pull request with a concise summary and test notes.
 
-## License
 
-Released under the MIT License; see [`LICENSE`](LICENSE). Check your institution's requirements before publishing third-party library code or hardware design files.
